@@ -1,0 +1,13 @@
+/**
+ *  Block Languages Dropdown
+ *  Based on default language module from PrestaShop 1.5.3.1
+ *
+ *  @author     Martin Hansen <martin.hansen@gmail.com>
+ *  @license    http://opensource.org/licenses/MIT  The MIT License (MIT)
+ */
+
+#header_right #languages_block_top {
+	float:right;
+	margin: 0;
+	padding:2px 6px 1px 6px;
+}
